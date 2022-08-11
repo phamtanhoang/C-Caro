@@ -1,0 +1,13 @@
+D:\Winform\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+D:\Winform\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe
+D:\Winform\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.pdb
+D:\Winform\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.AssemblyReference.cache
+D:\Winform\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+D:\Winform\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+D:\Winform\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+D:\Winform\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe
+D:\Winform\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
+D:\Winform\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.PlayGame.resources
+D:\Winform\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Login.resources
+D:\Winform\BaiTapLon\BaiTapLon\obj\Debug\Interop.WMPLib.dll
+D:\Winform\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.ResolveComReference.cache
